@@ -1,0 +1,5 @@
+[32m2018-02-12 14:27:57.572[0m [1;30m[INFO][0m (create_and_run:80 in benchmark.py) $ Starting benchmark...
+[32m2018-02-12 14:27:58.829[0m [1;30m[INFO][0m (create_and_run:82 in benchmark.py) $ The benchmark has started. pid : 27540
+[32m2018-02-12 14:28:26.082[0m [1;30m[INFO][0m (create_and_run:136 in benchmark.py) $ The benchmark is ended.
+[32m2018-02-12 14:28:26.082[0m [1;30m[DEBUG][0m (create_and_run:143 in benchmark.py) $ [32mremoving metric handler <RabbitMQHandler bodytrack(27540) (NOTSET)>[0m
+[32m2018-02-12 14:28:26.087[0m [1;30m[DEBUG][0m (create_and_run:143 in benchmark.py) $ [32mremoving metric handler <FileHandler /home/dcslab/bhyoo/power-sched/bench_launcher/experiments/solorun/bt/perf/bodytrack.csv (NOTSET)>[0m

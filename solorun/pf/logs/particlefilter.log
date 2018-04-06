@@ -1,0 +1,5 @@
+[32m2018-02-12 15:04:03.610[0m [1;30m[INFO][0m (create_and_run:80 in benchmark.py) $ Starting benchmark...
+[32m2018-02-12 15:04:03.738[0m [1;30m[INFO][0m (create_and_run:82 in benchmark.py) $ The benchmark has started. pid : 29343
+[32m2018-02-12 15:06:30.183[0m [1;30m[INFO][0m (create_and_run:136 in benchmark.py) $ The benchmark is ended.
+[32m2018-02-12 15:06:30.183[0m [1;30m[DEBUG][0m (create_and_run:143 in benchmark.py) $ [32mremoving metric handler <RabbitMQHandler particlefilter(29343) (NOTSET)>[0m
+[32m2018-02-12 15:06:30.188[0m [1;30m[DEBUG][0m (create_and_run:143 in benchmark.py) $ [32mremoving metric handler <FileHandler /home/dcslab/bhyoo/power-sched/bench_launcher/experiments/solorun/pf/perf/particlefilter.csv (NOTSET)>[0m

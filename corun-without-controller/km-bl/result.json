@@ -1,0 +1,22 @@
+{
+    "runtime": {
+        "kmeans": 52.52872705459595,
+        "blackscholes": 57.15010118484497
+    },
+    "power": [
+        {
+            "package_name": "package-1",
+            "power": 1746269883,
+            "domains": {
+                "dram": 163121409
+            }
+        },
+        {
+            "package_name": "package-0",
+            "power": 2936025198,
+            "domains": {
+                "dram": 249589558
+            }
+        }
+    ]
+}

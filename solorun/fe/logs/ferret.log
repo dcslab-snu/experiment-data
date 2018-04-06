@@ -1,0 +1,5 @@
+[32m2018-02-12 14:30:11.599[0m [1;30m[INFO][0m (create_and_run:80 in benchmark.py) $ Starting benchmark...
+[32m2018-02-12 14:30:12.276[0m [1;30m[INFO][0m (create_and_run:82 in benchmark.py) $ The benchmark has started. pid : 28289
+[32m2018-02-12 14:30:56.612[0m [1;30m[INFO][0m (create_and_run:136 in benchmark.py) $ The benchmark is ended.
+[32m2018-02-12 14:30:56.613[0m [1;30m[DEBUG][0m (create_and_run:143 in benchmark.py) $ [32mremoving metric handler <RabbitMQHandler ferret(28289) (NOTSET)>[0m
+[32m2018-02-12 14:30:56.616[0m [1;30m[DEBUG][0m (create_and_run:143 in benchmark.py) $ [32mremoving metric handler <FileHandler /home/dcslab/bhyoo/power-sched/bench_launcher/experiments/solorun/fe/perf/ferret.csv (NOTSET)>[0m

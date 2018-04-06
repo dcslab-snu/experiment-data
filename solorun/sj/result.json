@@ -1,0 +1,21 @@
+{
+    "runtime": {
+        "sjeng": 667.2388956546783
+    },
+    "power": [
+        {
+            "package_name": "package-1",
+            "power": 19747046921,
+            "domains": {
+                "dram": 1722657937
+            }
+        },
+        {
+            "package_name": "package-0",
+            "power": 20689431960,
+            "domains": {
+                "dram": 2265550009
+            }
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "runtime": {
+        "zeusmp": 571.7294864654541
+    },
+    "power": [
+        {
+            "package_name": "package-1",
+            "power": 17021546939,
+            "domains": {
+                "dram": 1562428870
+            }
+        },
+        {
+            "package_name": "package-0",
+            "power": 18045843817,
+            "domains": {
+                "dram": 2324521427
+            }
+        }
+    ]
+}

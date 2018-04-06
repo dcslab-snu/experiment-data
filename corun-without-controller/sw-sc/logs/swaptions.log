@@ -1,0 +1,5 @@
+[32m2018-01-25 13:52:16.069[0m [1;30m[INFO][0m (create_and_run:80 in benchmark.py) $ Starting benchmark...
+[32m2018-01-25 13:52:16.525[0m [1;30m[INFO][0m (create_and_run:82 in benchmark.py) $ The benchmark has started. pid : 29353
+[32m2018-01-25 13:52:50.403[0m [1;30m[INFO][0m (create_and_run:135 in benchmark.py) $ The benchmark is ended.
+[32m2018-01-25 13:52:50.404[0m [1;30m[DEBUG][0m (create_and_run:142 in benchmark.py) $ [32mremoving metric handler <RabbitMQHandler swaptions(29353) (NOTSET)>[0m
+[32m2018-01-25 13:52:50.408[0m [1;30m[DEBUG][0m (create_and_run:142 in benchmark.py) $ [32mremoving metric handler <FileHandler /home/dcslab/bhyoo/power-sched/bench_launcher/experiments/corun-without-controller/sw-sc/perf/swaptions.csv (NOTSET)>[0m

@@ -1,0 +1,6 @@
+[32m2018-01-25 14:16:55.869[0m [1;30m[INFO][0m (create_and_run:80 in benchmark.py) $ Starting benchmark...
+[32m2018-01-25 14:16:56.331[0m [1;30m[INFO][0m (create_and_run:82 in benchmark.py) $ The benchmark has started. pid : 44966
+[32m2018-01-25 14:18:46.571[0m [1;30m[INFO][0m (stop:161 in benchmark.py) $ stopping...
+[32m2018-01-25 14:18:46.572[0m [1;30m[INFO][0m (create_and_run:135 in benchmark.py) $ The benchmark is ended.
+[32m2018-01-25 14:18:46.572[0m [1;30m[DEBUG][0m (create_and_run:142 in benchmark.py) $ [32mremoving metric handler <RabbitMQHandler streamcluster(44966) (NOTSET)>[0m
+[32m2018-01-25 14:18:46.575[0m [1;30m[DEBUG][0m (create_and_run:142 in benchmark.py) $ [32mremoving metric handler <FileHandler /home/dcslab/bhyoo/power-sched/bench_launcher/experiments/corun-with-controller/cn-sc/perf/streamcluster.csv (NOTSET)>[0m
