@@ -1,0 +1,21 @@
+{
+    "runtime": {
+        "raytrace": 67.74558901786804
+    },
+    "power": [
+        {
+            "package_name": "package-0",
+            "power": 1889266403,
+            "domains": {
+                "dram": 174325859
+            }
+        },
+        {
+            "package_name": "package-1",
+            "power": 4687980430,
+            "domains": {
+                "dram": 336444445
+            }
+        }
+    ]
+}

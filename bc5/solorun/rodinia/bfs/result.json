@@ -1,0 +1,21 @@
+{
+    "runtime": {
+        "bfs": 27.675642013549805
+    },
+    "power": [
+        {
+            "package_name": "package-0",
+            "power": 711401682,
+            "domains": {
+                "dram": 67420781
+            }
+        },
+        {
+            "package_name": "package-1",
+            "power": 1607938023,
+            "domains": {
+                "dram": 129418095
+            }
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+	"launcher": {
+		"stops_with_the_first": false,
+		"post_scripts": [
+			"avg_csv.py",
+			"validate_perf.py"
+		],
+		"hyper-threading": false
+	},
+	"workloads": [
+		{
+			"name": "cfd",
+			"binding_cores": "16-31",
+			"cpu_freq": 2.1,
+			"num_of_threads": 16,
+			"numa_nodes": "1"
+		}
+	]
+}

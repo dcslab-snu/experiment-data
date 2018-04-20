@@ -1,0 +1,21 @@
+{
+    "runtime": {
+        "fluidanimate": 34.91165804862976
+    },
+    "power": [
+        {
+            "package_name": "package-0",
+            "power": 911567368,
+            "domains": {
+                "dram": 89203147
+            }
+        },
+        {
+            "package_name": "package-1",
+            "power": 3503318302,
+            "domains": {
+                "dram": 205208128
+            }
+        }
+    ]
+}

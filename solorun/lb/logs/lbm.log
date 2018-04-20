@@ -1,5 +1,0 @@
-[32m2018-02-12 14:46:34.718[0m [1;30m[INFO][0m (create_and_run:80 in benchmark.py) $ Starting benchmark...
-[32m2018-02-12 14:46:35.842[0m [1;30m[INFO][0m (create_and_run:82 in benchmark.py) $ The benchmark has started. pid : 28944
-[32m2018-02-12 14:54:51.208[0m [1;30m[INFO][0m (create_and_run:136 in benchmark.py) $ The benchmark is ended.
-[32m2018-02-12 14:54:51.209[0m [1;30m[DEBUG][0m (create_and_run:143 in benchmark.py) $ [32mremoving metric handler <RabbitMQHandler lbm(28944) (NOTSET)>[0m
-[32m2018-02-12 14:54:51.220[0m [1;30m[DEBUG][0m (create_and_run:143 in benchmark.py) $ [32mremoving metric handler <FileHandler /home/dcslab/bhyoo/power-sched/bench_launcher/experiments/solorun/lb/perf/lbm.csv (NOTSET)>[0m

@@ -1,5 +1,0 @@
-[32m2018-02-20 22:47:44.800[0m [1;30m[INFO][0m (create_and_run:80 in benchmark.py) $ Starting benchmark...
-[32m2018-02-20 22:47:45.381[0m [1;30m[INFO][0m (create_and_run:82 in benchmark.py) $ The benchmark has started. pid : 44096
-[32m2018-02-20 22:48:50.880[0m [1;30m[INFO][0m (create_and_run:136 in benchmark.py) $ The benchmark is ended.
-[32m2018-02-20 22:48:50.880[0m [1;30m[DEBUG][0m (create_and_run:143 in benchmark.py) $ [32mremoving metric handler <RabbitMQHandler canneal(44096) (NOTSET)>[0m
-[32m2018-02-20 22:48:50.885[0m [1;30m[DEBUG][0m (create_and_run:143 in benchmark.py) $ [32mremoving metric handler <FileHandler /home/dcslab/bhyoo/power-sched/experiments/corun-without-controller/ca-bl/perf/canneal.csv (NOTSET)>[0m

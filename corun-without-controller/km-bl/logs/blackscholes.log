@@ -1,5 +1,0 @@
-[32m2018-02-20 22:46:46.939[0m [1;30m[INFO][0m (create_and_run:80 in benchmark.py) $ Starting benchmark...
-[32m2018-02-20 22:46:48.094[0m [1;30m[INFO][0m (create_and_run:82 in benchmark.py) $ The benchmark has started. pid : 43406
-[32m2018-02-20 22:47:44.770[0m [1;30m[INFO][0m (create_and_run:136 in benchmark.py) $ The benchmark is ended.
-[32m2018-02-20 22:47:44.770[0m [1;30m[DEBUG][0m (create_and_run:143 in benchmark.py) $ [32mremoving metric handler <RabbitMQHandler blackscholes(43406) (NOTSET)>[0m
-[32m2018-02-20 22:47:44.774[0m [1;30m[DEBUG][0m (create_and_run:143 in benchmark.py) $ [32mremoving metric handler <FileHandler /home/dcslab/bhyoo/power-sched/experiments/corun-without-controller/km-bl/perf/blackscholes.csv (NOTSET)>[0m
