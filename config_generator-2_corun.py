@@ -9,6 +9,7 @@ PARSEC_LIST = ['streamcluster', 'canneal', 'swaptions', 'x264', 'ferret', 'bodyt
                'dedup', 'facesim', 'fluidanimate', 'freqmine', 'raytrace', 'vips']
 RODINIA_LIST = ['nn', 'kmeans', 'cfd', 'particlefilter', 'bfs']
 SPEC_LIST = ['lbm', 'libquantum', 'GemsFDTD', 'sphinx', 'gcc', 'zeusmp', 'sjeng']
+NPB_LIST = ['CG', 'IS', 'DC', 'EP', 'MG', 'FT', 'SP', 'BT', 'LU', 'UA']
 
 WORKLOAD_LIST = [
     'blackscholes',

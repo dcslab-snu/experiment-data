@@ -11,8 +11,9 @@ PARSEC_LIST = ['streamcluster', 'canneal', 'swaptions', 'x264', 'ferret', 'bodyt
 
 RODINIA_LIST = ['nn', 'kmeans', 'cfd', 'particlefilter', 'bfs']
 SPEC_LIST = ['lbm', 'libquantum', 'GemsFDTD', 'sphinx', 'gcc', 'zeusmp', 'sjeng']
+NPB_LIST = ['CG', 'IS', 'DC', 'EP', 'MG', 'FT', 'SP', 'BT', 'LU', 'UA']
 
-WORKLOAD_LIST = RODINIA_LIST
+WORKLOAD_LIST = NPB_LIST
 
 JSON_WORKLOAD_TEMPLATE = {
     'num_of_threads': 16,
