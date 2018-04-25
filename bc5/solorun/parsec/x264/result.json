@@ -1,20 +1,20 @@
 {
     "runtime": {
-        "x264": 7.954592704772949
+        "x264": 8.143487215042114
     },
     "power": [
         {
             "package_name": "package-0",
-            "power": 351372392,
+            "power": 403545293,
             "domains": {
-                "dram": 32989493
+                "dram": 42020869
             }
         },
         {
             "package_name": "package-1",
-            "power": 953519776,
+            "power": 962922340,
             "domains": {
-                "dram": 62046962
+                "dram": 65840107
             }
         }
     ]

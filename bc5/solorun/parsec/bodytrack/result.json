@@ -1,20 +1,20 @@
 {
     "runtime": {
-        "bodytrack": 16.30836510658264
+        "bodytrack": 16.550631761550903
     },
     "power": [
         {
             "package_name": "package-0",
-            "power": 459498519,
+            "power": 532151347,
             "domains": {
-                "dram": 49059083
+                "dram": 57064533
             }
         },
         {
             "package_name": "package-1",
-            "power": 1528695610,
+            "power": 1567465165,
             "domains": {
-                "dram": 78052062
+                "dram": 85284266
             }
         }
     ]

@@ -1,20 +1,20 @@
 {
     "runtime": {
-        "nn": 86.30481719970703
+        "nn": 93.73112392425537
     },
     "power": [
         {
             "package_name": "package-0",
-            "power": 2186313739,
+            "power": 2471810689,
             "domains": {
-                "dram": 262447785
+                "dram": 263313489
             }
         },
         {
             "package_name": "package-1",
-            "power": 8210546425,
+            "power": 8902890417,
             "domains": {
-                "dram": 394052862
+                "dram": 460371568
             }
         }
     ]
