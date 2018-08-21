@@ -1,0 +1,2 @@
+l2miss,r1b2,l3miss,instructions,cycles,stall_cycles,intra_coh,inter_coh,wall-cycles,llc_occupancy
+1825805,1493455,630090,37439291,159533009,137993542,0,0,419801060,38666240

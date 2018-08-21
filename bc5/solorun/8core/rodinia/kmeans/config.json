@@ -1,0 +1,19 @@
+{
+	"launcher": {
+		"stops_with_the_first": false,
+		"post_scripts": [
+			"avg_csv.py",
+			"validate_perf.py"
+		],
+		"hyper-threading": false
+	},
+	"workloads": [
+		{
+			"name": "kmeans",
+			"binding_cores": "16-23",
+			"cpu_freq": 2.1,
+			"num_of_threads": 8,
+			"numa_nodes": "1"
+		}
+	]
+}

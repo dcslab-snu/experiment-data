@@ -1,0 +1,21 @@
+{
+    "runtime": {
+        "swaptions": 23.620027542114258
+    },
+    "power": [
+        {
+            "package_name": "package-0",
+            "power": 690310611,
+            "domains": {
+                "dram": 65789255104
+            }
+        },
+        {
+            "package_name": "package-1",
+            "power": 2555255116,
+            "domains": {
+                "dram": 65795857589
+            }
+        }
+    ]
+}

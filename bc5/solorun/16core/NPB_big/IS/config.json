@@ -1,0 +1,19 @@
+{
+	"workloads": [
+		{
+			"num_of_threads": 16,
+			"binding_cores": "16-31",
+			"numa_nodes": "1",
+			"cpu_freq": 2.1,
+			"name": "IS"
+		}
+	],
+	"launcher": {
+		"hyper-threading": false,
+		"stops_with_the_first": false,
+		"post_scripts": [
+			"avg_csv.py",
+			"validate_perf.py"
+		]
+	}
+}

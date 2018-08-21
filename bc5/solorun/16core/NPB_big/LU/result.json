@@ -1,0 +1,21 @@
+{
+    "runtime": {
+        "LU": 2954.0034379959106
+    },
+    "power": [
+        {
+            "package_name": "package-0",
+            "power": 80479970973,
+            "domains": {
+                "dram": 74606034206
+            }
+        },
+        {
+            "package_name": "package-1",
+            "power": 56792031980,
+            "domains": {
+                "dram": 32038643975
+            }
+        }
+    ]
+}
