@@ -4,6 +4,7 @@ Data that profiled the benchmark program via [bench-launcher](https://github.com
 
 # Environments
 
+- Hyper-Threading off
 - `performance` gorvernor
 - `Intel Turbo Boost` off
 
