@@ -1,0 +1,21 @@
+{
+    "runtime": {
+        "freqmine": 74.97359466552734
+    },
+    "power": [
+        {
+            "package_name": "package-0",
+            "power": 3729771458,
+            "domains": {
+                "dram": 66045675805
+            }
+        },
+        {
+            "package_name": "package-1",
+            "power": 5949681302,
+            "domains": {
+                "dram": 66039857276
+            }
+        }
+    ]
+}

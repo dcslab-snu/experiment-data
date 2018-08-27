@@ -1,21 +1,21 @@
 {
     "runtime": {
-        "streamcluster": 148.22914457321167,
-        "SP": 332.9356927871704
+        "SP": 143.75645685195923,
+        "streamcluster": 155.56218218803406
     },
     "power": [
         {
             "package_name": "package-0",
-            "power": 9527037195,
+            "power": 6307361173,
             "domains": {
-                "dram": 66814680673
+                "dram": 66451196231
             }
         },
         {
             "package_name": "package-1",
-            "power": 27835498748,
+            "power": 16933007066,
             "domains": {
-                "dram": 68703959204
+                "dram": 1462217466
             }
         }
     ]

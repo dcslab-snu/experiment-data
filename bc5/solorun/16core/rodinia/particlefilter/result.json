@@ -1,20 +1,20 @@
 {
     "runtime": {
-        "particlefilter": 44.53762245178223
+        "particlefilter": 44.664957761764526
     },
     "power": [
         {
             "package_name": "package-0",
-            "power": 1229007596,
+            "power": 1370783050,
             "domains": {
-                "dram": 130508357
+                "dram": 65895063125
             }
         },
         {
             "package_name": "package-1",
-            "power": 4260905473,
+            "power": 4357350112,
             "domains": {
-                "dram": 212995002
+                "dram": 65900527092
             }
         }
     ]

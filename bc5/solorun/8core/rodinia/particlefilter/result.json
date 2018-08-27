@@ -1,0 +1,21 @@
+{
+    "runtime": {
+        "particlefilter": 78.09028601646423
+    },
+    "power": [
+        {
+            "package_name": "package-0",
+            "power": 2304553731,
+            "domains": {
+                "dram": 66023250733
+            }
+        },
+        {
+            "package_name": "package-1",
+            "power": 6065014014,
+            "domains": {
+                "dram": 66033477988
+            }
+        }
+    ]
+}

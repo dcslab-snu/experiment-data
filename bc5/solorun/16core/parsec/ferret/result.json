@@ -1,20 +1,20 @@
 {
     "runtime": {
-        "ferret": 27.116520404815674
+        "ferret": 29.672703981399536
     },
     "power": [
         {
             "package_name": "package-0",
-            "power": 701680699,
+            "power": 991435389,
             "domains": {
-                "dram": 81753592
+                "dram": 140888444
             }
         },
         {
             "package_name": "package-1",
-            "power": 2898744899,
+            "power": 3171504332,
             "domains": {
-                "dram": 144509219
+                "dram": 65858058852
             }
         }
     ]

@@ -1,0 +1,21 @@
+{
+    "runtime": {
+        "facesim": 75.3052830696106
+    },
+    "power": [
+        {
+            "package_name": "package-0",
+            "power": 2273093058,
+            "domains": {
+                "dram": 66035994333
+            }
+        },
+        {
+            "package_name": "package-1",
+            "power": 6077682500,
+            "domains": {
+                "dram": 66055564914
+            }
+        }
+    ]
+}

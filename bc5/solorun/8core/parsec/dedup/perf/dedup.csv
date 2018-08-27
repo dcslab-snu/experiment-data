@@ -1,0 +1,2 @@
+l2miss,r1b2,l3miss,instructions,cycles,stall_cycles,intra_coh,inter_coh,wall_cycles,llc_size,local_mem,remote_mem
+1595950,1465469,613655,38743596,148493456,126252307,0,0,419157040,37421056,193986560,0

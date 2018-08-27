@@ -1,0 +1,21 @@
+{
+    "runtime": {
+        "EP": 59.947561740875244
+    },
+    "power": [
+        {
+            "package_name": "package-0",
+            "power": 1753029326,
+            "domains": {
+                "dram": 65956364365
+            }
+        },
+        {
+            "package_name": "package-1",
+            "power": 4794266413,
+            "domains": {
+                "dram": 65965823177
+            }
+        }
+    ]
+}

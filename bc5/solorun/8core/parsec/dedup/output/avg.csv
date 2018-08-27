@@ -1,0 +1,14 @@
+category,dedup
+runtime,6.537707805633545
+l2miss,1595950.0
+r1b2,1465469.0
+l3miss,613655.0
+instructions,38743596.0
+cycles,148493456.0
+stall_cycles,126252307.0
+intra_coh,0.0
+inter_coh,0.0
+wall_cycles,419157040.0
+llc_size,37421056.0
+local_mem,193986560.0
+remote_mem,0.0
