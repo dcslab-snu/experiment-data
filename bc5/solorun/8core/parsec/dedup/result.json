@@ -1,20 +1,20 @@
 {
     "runtime": {
-        "dedup": 6.537707805633545
+        "dedup": 7.576045989990234
     },
     "power": [
         {
             "package_name": "package-0",
-            "power": 284307743,
+            "power": 385380178,
             "domains": {
-                "dram": 65751818467
+                "dram": 65755559011
             }
         },
         {
             "package_name": "package-1",
-            "power": 605886693,
+            "power": 755335712,
             "domains": {
-                "dram": 65752535134
+                "dram": 65765748872
             }
         }
     ]

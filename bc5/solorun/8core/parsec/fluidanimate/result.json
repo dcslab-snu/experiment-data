@@ -1,20 +1,20 @@
 {
     "runtime": {
-        "fluidanimate": 59.095603942871094
+        "fluidanimate": 58.332513093948364
     },
     "power": [
         {
             "package_name": "package-0",
-            "power": 1799245821,
+            "power": 1743604423,
             "domains": {
-                "dram": 65962800295
+                "dram": 65922965843
             }
         },
         {
             "package_name": "package-1",
-            "power": 4873827488,
+            "power": 4938693961,
             "domains": {
-                "dram": 66007592637
+                "dram": 66051054230
             }
         }
     ]

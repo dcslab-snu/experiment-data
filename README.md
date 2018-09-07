@@ -7,6 +7,7 @@ Data that profiled the benchmark program via [bench-launcher](https://github.com
 - Hyper-Threading off
 - `performance` gorvernor
 - `Intel Turbo Boost` off
+- Memory socket isolation
 
 # Covered benchmark sets
 
